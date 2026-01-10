@@ -1,6 +1,6 @@
 # 🔐 Brute-Force Time Complexity Dashboard
 
-A research initiative analyzing the performance, efficiency, and time complexity of brute-force algorithms across different programming languages. This project visualizes how Python, JavaScript, and C++ handle computational stress during password cracking scenarios.
+A research initiative analyzing the performance, efficiency, and time complexity of brute-force algorithms across different programming languages. This project visualizes how Python, JavaScript, Java and C++ handle computational stress during password cracking scenarios.
 
 ## 🚀 Overview
 
