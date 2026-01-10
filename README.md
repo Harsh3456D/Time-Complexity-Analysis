@@ -43,7 +43,7 @@ The project includes a **Matplotlib Dashboard** that visualizes the exponential 
 ├── crack.py           # Python Implementation (Baseline)
 ├── Dashboard.py       # Data Visualization Tool (Matplotlib)
 └── crack.exe          # Compiled C++ Executable
-
+```
 
 ## 📈 Roadmap & Future Updates
 I am actively expanding this research to include more sophisticated attack vectors and optimizations:
