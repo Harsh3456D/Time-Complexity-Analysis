@@ -69,7 +69,7 @@ Commit your Changes (git commit -m 'Add Golang Benchmark')
 
 Push to the Branch (git push origin feature/NewAlgorithm)
 
-Open a Pull Request
+**Open a Pull Request**
 
 📜 License
 Distributed under the MIT License. See LICENSE for more information.
