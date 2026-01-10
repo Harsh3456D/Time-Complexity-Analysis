@@ -47,7 +47,7 @@ The project includes a **Matplotlib Dashboard** that visualizes the exponential 
 
 ## 📈 Roadmap & Future Updates
 I am actively expanding this research to include more sophisticated attack vectors and optimizations:
-
+```
 [ ] Multi-threading/Parallel Processing: Implementing threading in Python and OpenMP in C++.
 
 [ ] Dictionary Attacks: Comparing hash table lookup speeds across languages.
@@ -57,10 +57,10 @@ I am actively expanding this research to include more sophisticated attack vecto
 [ ] Rainbow Tables: Storage vs. Compute analysis.
 
 [ ] Hashing Algorithms: Benchmarking MD5/SHA-256 collision finding.
-
+```
 ## 🤝 Contributing
 This is a research project, and contributions are welcome! If you want to optimize the algorithms or add a new language (Rust/Go?), feel free to fork the repo and submit a PR.
-
+```
 Fork the Project
 
 Create your Feature Branch (git checkout -b feature/NewAlgorithm)
@@ -68,7 +68,7 @@ Create your Feature Branch (git checkout -b feature/NewAlgorithm)
 Commit your Changes (git commit -m 'Add Golang Benchmark')
 
 Push to the Branch (git push origin feature/NewAlgorithm)
-
+```
 **Open a Pull Request**
 
 📜 License
