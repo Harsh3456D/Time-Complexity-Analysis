@@ -28,7 +28,8 @@ The project includes a **Matplotlib Dashboard** that visualizes the exponential 
 | **8** | 32.34 | 1.54 | 2.8 |
 | **9** | 304.3 | 15.7 | 29.1 |
 
-
+**Note: The data from Dashboard.py indicates that while C++ is faster for smaller inputs (1-5 digits), the JavaScript
+implementation outperformed C++ in this specific benchmark for larger inputs (6-9 digits).**
 
 | Language | Complexity Trend | Performance Tier |
 | :--- | :--- | :--- |
