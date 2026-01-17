@@ -17,7 +17,8 @@ public class selectionSort{
         arr[subindex] = arr[i];
         arr[i] = temp;
         }
-        System.err.println(Arrays.toString(arr));
+        System.out.println(Arrays.toString(arr));
     }
 
 }
+
