@@ -1,10 +1,10 @@
 # 🔐 Time Complexity Dashboard Edition V1.2
 
-A research initiative analyzing the performance, efficiency, and time complexity of brute-force algorithms across different programming languages. This project visualizes how Python, JavaScript, Java and C++ handle computational stress during Several scenarios.
+A research initiative analyzing the performance, efficiency, and time complexity of algorithms and non algorithmic scripts across different programming languages. This project visualizes how Python, JavaScript, Java and C++ handle computational stress during Several scenarios.
 
 ## 🚀 Overview
 
-Understanding the speed at which passwords can be cracked is vital for modern cybersecurity. This project implements identical linear brute-force algorithms in three major stacks to benchmark their raw processing power:
+Understanding the speed and time complexity for research purposes. This project implements algorithms and non algorithmic scripts in couple major stacks to benchmark their raw power:
 
 * **Python**: Interpreted, ease-of-use focus.
 * **Node.js (JavaScript)**: V8 engine, JIT compiled.
