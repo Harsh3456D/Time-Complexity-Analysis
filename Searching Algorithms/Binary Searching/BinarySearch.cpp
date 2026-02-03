@@ -1,7 +1,6 @@
 #include <iostream>
 #include <algorithm>
 #include <vector>
-
 using namespace std;
 
 void binarySearch(vector<int>& arr,int len, int target){
@@ -31,4 +30,5 @@ int main(){
     int target = 7;
     binarySearch(arr, length, target);
     return 0;
+
 }
