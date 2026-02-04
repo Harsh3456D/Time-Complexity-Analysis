@@ -1,5 +1,4 @@
 const { performance } = require('perf_hooks');
-
 const setPass = "373905289";
 const setPassLen = setPass.length;
 
@@ -19,3 +18,4 @@ for (let i = 0; i < passCombi; i++ ){
         break;
     };
 };
+
